@@ -129,7 +129,7 @@ Live updates over WebSockets, a customer-facing queue screen, per-branch support
 
 ## Credits
 
-Database design (ER diagram, relational schema and SQL Server script) from the Database Lab project by Muhammad Hamza Gulzar, Muhammad Sufyan and Mizfar Abdullah. Data-structure prototype in C++ and full-stack integration by Jabran.
+Database design (ER diagram, relational schema and SQL Server script) from the Database Lab project by Muhammad Hamza Gulzar. Data-structure prototype in C++ and full-stack integration by Jabran.
 Pixel font: [Press Start 2P](https://fonts.google.com/specimen/Press+Start+2P) by CodeMan38 (SIL Open Font License, see `client/fonts/`).
 
 ## License
